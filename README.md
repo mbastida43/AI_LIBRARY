@@ -20,6 +20,20 @@ Generative AI:
 
 [IMAGE UPSCALER](https://imgupscaler.com/) - An AI Image Upscaler is a tool that uses artificial intelligence to increase the resolution of images while preserving or enhancing details. It works by analyzing the existing pixels and intelligently generating new ones to add, effectively enlarging the image without significant loss of quality.
 
+OPEN SOURCE
+
+[Fooocus AI](https://github.com/lllyasviel/Fooocus) - Open source tool with advanced options to generate images.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
