@@ -9,9 +9,19 @@ Generative AI:
 **SOUND**
 
 **VIDEOS**
-Kling AI - [Kling AI is a versatile AI tool with features for both video and image generation, including text-to-video, image-to-video, and image-to-image generation. It also offers advanced features like lip-sync with text-to-speech, camera movement, and the ability to use reference images (Elements) to create more consistent and detailed videos](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwizqNih3aqNAxXUUEgAHQcbNrAYABAAGgJjZQ&co=1&gclid=CjwKCAjw56DBBhAkEiwAaFsG-p4NnvNkRjq7vHdF-tP8026jphiEXRD-Cu9fc4kGRRgNcFzCrR7DVhoCYuMQAvD_BwE&ohost=www.google.com&cid=CAESVuD2wh18cp2DlwMo-LeiHU1paLhb8-kT92D6U_NdSvkIc9LNHI2tV_FRl64GPpcg1q3b875k410y3Xh0CiWiBIHtbUoDbbHDEs8wv-VPpbhTvtkrGcVS&sig=AOD64_1aJp79coORJlBgYQQR9X1p5MEfQg&q&adurl&ved=2ahUKEwjX7dGh3aqNAxVeq5UCHfcTJY4Q0Qx6BAgLEAE)
-Pixverse - PixVerse AI is an AI video generator that allows users to create animated videos from text prompts, images, or both. It offers various features, including lip-syncing, AI-generated sound effects, and the ability to restyle videos. PixVerse also supports different models and styles, such as realistic, anime, and 3D animations, and includes an upscaler to enhance video quality.
+[Kling AI](https://app.klingai.com/) - Kling AI is an AI-driven text-to-video and image-to-video generator developed by Kuaishou. It's known for producing high-quality, cinematic video clips, especially focusing on realistic human motion, natural physics, and cinematic camera movements. Kling AI also utilizes a feature called "Elements" to enhance video consistency and allows users to control the visual appearance and actions of characters and objects.
+
+[Pixverse](https://app.pixverse.ai/) - Pixverse is an AI video generator that allows users to create animated videos from text prompts, images, or both. It offers various features, including lip-syncing, AI-generated sound effects, and the ability to restyle videos. PixVerse also supports different models and styles, such as realistic, anime, and 3D animations, and includes an upscaler to enhance video quality.
 
 **VOICE CLONE**
 
 **FREE AI**
+
+[IMAGE UPSCALER](https://imgupscaler.com/) - An AI Image Upscaler is a tool that uses artificial intelligence to increase the resolution of images while preserving or enhancing details. It works by analyzing the existing pixels and intelligently generating new ones to add, effectively enlarging the image without significant loss of quality.
+
+
+
+
+
+
+
