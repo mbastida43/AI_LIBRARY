@@ -4,6 +4,10 @@ I want to turn this public repository in the most accurate source about generati
 
 Generative AI:
 
+**RESEARCH**
+
+[NotebookLM](https://notebooklm.google.com/) - NotebookLM is an AI-powered research and writing tool that **helps you summarize and extract information across dense and complex sources**. You can upload PDFs, Google Docs, Google Slides, website URLs, and more to build a notebook with many sources.
+
 **TEXT**
 
 **SOUND**
@@ -23,6 +27,12 @@ Generative AI:
 OPEN SOURCE
 
 [Fooocus AI](https://github.com/lllyasviel/Fooocus) - Open source tool with advanced options to generate images.
+
+
+
+
+
+
 
 
 
