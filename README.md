@@ -2,6 +2,9 @@
 
 I want to turn this public repository in the most accurate source about generative AI covering about images, videos, logos, text, everything related with this subject to be a source of research!
 
+Do this promtp if you find a new AI:
+"Describe this AI [AI NAME] and the most important features."
+
 Generative AI:
 
 **RESEARCH**
