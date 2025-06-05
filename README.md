@@ -17,7 +17,16 @@ Generative AI:
 
 **VIDEOS**
 
-
+[Fotor] (https://www.fotor.com/pt/)
+AI Photo Enhancer
+AI Background Remover
+AI Image Generator
+AI Avatar Generator
+AI Photo to Art
+AI Face Retouching & Portrait Editing
+AI Object Remover
+Batch Processing
+Photo Collage Maker & Design Templates
 
 [Kling AI](https://app.klingai.com/) - Kling AI is an AI-driven text-to-video and image-to-video generator developed by Kuaishou. It's known for producing high-quality, cinematic video clips, especially focusing on realistic human motion, natural physics, and cinematic camera movements. Kling AI also utilizes a feature called "Elements" to enhance video consistency and allows users to control the visual appearance and actions of characters and objects.
 
