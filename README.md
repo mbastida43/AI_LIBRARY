@@ -11,6 +11,11 @@ Generative AI:
 
 [NotebookLM](https://notebooklm.google.com/) - NotebookLM is an AI-powered research and writing tool that **helps you summarize and extract information across dense and complex sources**. You can upload PDFs, Google Docs, Google Slides, website URLs, and more to build a notebook with many sources.
 
+
+**IMAGE**
+
+
+
 **TEXT**
 
 **SOUND**
@@ -24,7 +29,7 @@ AI Image Generator
 AI Avatar Generator
 AI Photo to Art
 AI Face Retouching & Portrait Editing
-AI Object Remover
+AI Object Remover (ony watermark remover for video without blur I did find !!)
 Batch Processing
 Photo Collage Maker & Design Templates
 
